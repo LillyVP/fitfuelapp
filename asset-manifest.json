@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fitfuelapp/static/css/main.7f29a825.css",
+    "main.js": "/fitfuelapp/static/js/main.9797855a.js",
+    "static/js/453.dd163bdf.chunk.js": "/fitfuelapp/static/js/453.dd163bdf.chunk.js",
+    "index.html": "/fitfuelapp/index.html",
+    "main.7f29a825.css.map": "/fitfuelapp/static/css/main.7f29a825.css.map",
+    "main.9797855a.js.map": "/fitfuelapp/static/js/main.9797855a.js.map",
+    "453.dd163bdf.chunk.js.map": "/fitfuelapp/static/js/453.dd163bdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f29a825.css",
+    "static/js/main.9797855a.js"
+  ]
+}
